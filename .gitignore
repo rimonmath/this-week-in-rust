@@ -5,6 +5,7 @@ include
 output
 *~
 cache
+temp_auto_push.bat
 .sass-cache
 **/.idea
 .DS_Store
@@ -13,3 +14,5 @@ cache
 publishing/email
 publishing/output*
 publishing/juice
+.gitignore
+branch_structure.json
