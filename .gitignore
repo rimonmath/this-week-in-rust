@@ -6,6 +6,7 @@ output
 *~
 cache
 .sass-cache
+temp_auto_push.bat
 **/.idea
 .DS_Store
 
@@ -14,4 +15,5 @@ publishing/email
 publishing/output*
 publishing/juice
 
-draft/cft_rfc_fcp_draft_template.md
+draft/cft_rfc_fcp_draft_template.md.gitignore
+branch_structure.json
